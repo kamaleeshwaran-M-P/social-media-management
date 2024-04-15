@@ -306,7 +306,7 @@
         width:70px;
         height:70px;
         margin: 20px;
-        margin-left: 80px;
+        margin-left: 140px;
             }
    
     
@@ -328,7 +328,7 @@
     }
     .box:hover{
         transform: scale(1.03);
-        background: linear-gradient(65deg ,blueviolet,lightgreen);
+        background-color:#668cff;
     }
 
 
